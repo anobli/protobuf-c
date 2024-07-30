@@ -1,0 +1,4 @@
+name: protobuf-c
+build:
+  cmake-ext: True
+  kconfig-ext: True
